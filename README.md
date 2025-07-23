@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao1824&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao1824&layout=compact&thema=shadow_red)
 
 
 
